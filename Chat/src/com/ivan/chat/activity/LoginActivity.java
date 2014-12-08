@@ -1,4 +1,6 @@
-package com.ivan.chat;
+package com.ivan.chat.activity;
+
+import com.ivan.chat.R;
 
 import android.os.Bundle;
 import android.app.Activity;
