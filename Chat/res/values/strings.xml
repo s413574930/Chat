@@ -7,5 +7,6 @@
     <string name="lblLoginUserName">User</string>
     <string name="lblLoginPwd">Pwd</string>
     <string name="btnLogin">Sign in</string>
+    <string name="title_activity_tab_host">TabHostActivity</string>
 
 </resources>
